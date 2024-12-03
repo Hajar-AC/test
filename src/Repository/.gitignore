@@ -1,0 +1,6 @@
+echo "/var/" >> .gitignore
+echo "/vendor/" >> .gitignore
+echo "/node_modules/" >> .gitignore
+echo ".env.local" >> .gitignore
+echo ".env.test.local" >> .gitignore
+echo ".idea/" >> .gitignore
